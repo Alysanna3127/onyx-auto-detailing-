@@ -1,0 +1,32 @@
+{
+  "businessName": "ONYX Auto Detailing",
+  "tagline": "Premium care. Remarkable finish.",
+  "services": [
+    {
+      "name": "Exterior Detail",
+      "description": "Thoughtful washing, wheel care, surface cleaning, and exterior finishing."
+    },
+    {
+      "name": "Interior Detail",
+      "description": "Refresh the cabin with interior cleaning and careful attention to details."
+    },
+    {
+      "name": "Signature Detail",
+      "description": "Ask about a complete interior and exterior detailing experience."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "images/gallery-1.jpg",
+      "caption": "Exterior finish"
+    },
+    {
+      "image": "images/gallery-2.jpg",
+      "caption": "Interior care"
+    },
+    {
+      "image": "images/gallery-3.jpg",
+      "caption": "Signature detailing"
+    }
+  ]
+}
